@@ -8,4 +8,4 @@ Team consisted of:
 
 Placed 33/63
 
-Contest website here: https://rmc18.kattis.com/
+Contest standings here: https://rmc18.kattis.com/standings
